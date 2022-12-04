@@ -32,13 +32,13 @@ img {
 [data-start] {
   position: absolute;
   top: 50%;
-  left: calc(50% - 150px);
+  left: calc(50% - 75px);
   background-color: green;
 }
 
 [data-stop] {
   position: absolute;
   top: 50%;
-  left: calc(50%);
+  left: calc(50% + 75px);
   background-color: red;
 }
