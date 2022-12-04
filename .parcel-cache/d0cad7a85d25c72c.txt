@@ -63,7 +63,7 @@
 107C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\posthtml\node_modules\posthtml-parser133146155864837690 1
 85C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\lmdb\index.d.ts133139263669351401 0
 88C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\svgo\lib\parser.js133139263637725592 0
-83C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\src\01-color-switcher.html133146084220000000 0
+83C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\src\01-color-switcher.html133146181258084652 0
 109C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\parcel-reporter-clean-dist\dist\main.js133139263610467194 0
 119C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\@parcel\package-manager\src\promiseFromProcess.js133139263645306539 0
 115C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\caniuse-lite\data\features\getrandomvalues.js133139263676848758 0
@@ -91,7 +91,7 @@
 64C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\.sassrc133136781087591140 0
 92C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\csso\lib\clean\Rule.js133139263643251016 0
 90C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\globals\package.json133139263600048818 0
-61C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\dist133146165542792331 1
+61C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\dist133146181508187527 1
 117C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\@parcel\core\lib\requests\ParcelBuildRequest.js133139263667582046 0
 104C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\htmlnano\lib\modules\minifyJson.js133139263622087694 0
 114C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\utility-types\dist\functional-helpers.js.map133139263604600143 0
@@ -108,7 +108,7 @@
 88C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\.package-lock.json133146165332605980 0
 124C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\@swc\helpers\lib\_class_check_private_static_access.js133139263623470215 0
 99C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\@swc\helpers\src\_defaults.js133139263666313010 0
-79C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\acorn\bin133139263594680538 1
+79C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\acorn\bin133146155630226402 1
 89C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\type-fest\readme.md133139263594240524 0
 100C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\nth-check\lib\compile.d.ts.map133139263609348954 0
 69C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules133146165331096019 1
@@ -146,7 +146,7 @@
 75C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\json5133146155812643947 1
 95C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\sass\types\value\map.d.ts133139263660760282 0
 83C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\node-releases133146155847808785 1
-87C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\dist\goit-js-hw-09.59712999.js133146165542392326 0
+87C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\dist\goit-js-hw-09.59712999.js133146167500266191 0
 78C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\chokidar133146155725012136 1
 100C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\source-map\lib\mapping-list.js133139263608958240 0
 95C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\resolve-from\package.json133139263584878134 0
@@ -180,7 +180,7 @@
 98C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\@parcel\logger\lib\Logger.js133139263621687656 0
 89C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\nan\tools\README.md133139263642741044 0
 102C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\@parcel\optimizer-terser\LICENSE133139263615909249 0
-71C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\src\index.html133146084220000000 0
+71C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\src\index.html133146181506317532 0
 112C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\simplelightbox\dist\simple-lightbox.esm.js133140622312534685 0
 121C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\caniuse-lite\data\features\requestanimationframe.js133139263688081685 0
 104C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\caniuse-lite\data\features\xhr2.js133139263694949011 0
@@ -192,7 +192,7 @@
 98C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\ordered-binary\tests\test.js133139263599958878 0
 101C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\@parcel\core\src\BundleGraph.js133139263656169133 0
 106C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\svgo\plugins\cleanupNumericValues.js133139263616169239 0
-84C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\src\js\01-color-switcher.js133146084220000000 0
+84C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\src\js\01-color-switcher.js133146178438438922 0
 91C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\css-what\package.json133139263614240990 0
 132C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\parcel-reporter-clean-dist\test\fixtures\files\embed\file2.txt133139263641721014 0
 91C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\json5\lib\register.js133139263607298839 0
@@ -294,7 +294,7 @@
 116C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\caniuse-lite\data\features\speech-synthesis.js133139263690392585 0
 122C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\caniuse-lite\data\features\contentsecuritypolicy2.js133139263665863040 0
 100C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\svgo\plugins\preset-default.js133139263642640977 0
-78C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\dist\03-promises.html133146165542392326 0
+78C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\dist\03-promises.html133146167232749241 0
 75C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\clone133146155726601815 1
 105C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\caniuse-lite\data\regions\alt-oc.js133139263624006146 0
 126C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\abortcontroller-polyfill\src\abortcontroller-polyfill.js133139263605010130 0
@@ -1195,7 +1195,7 @@
 98C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\timsort\build\timsort.min.js133139263603760148 0
 89C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\braces\package.json133139263594010544 0
 103C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\dom-serializer\lib\esm\index.d.ts133139263618245545 0
-80C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\terser\bin133146155917062739 1
+80C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\terser\bin133146155917192535 1
 122C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\dom-serializer\node_modules\entities\lib\encode.d.ts133139263650733940 0
 118C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\caniuse-lite\data\features\insertadjacenthtml.js133139263681403606 0
 81C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\terser\dist133146155917762730 1
@@ -1286,7 +1286,7 @@
 116C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\svgo\plugins\removeNonInheritableGroupAttrs.js133139263651163878 0
 102C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\term-size\vendor\macos\term-size133139263595939210 0
 108C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\@swc\helpers\lib\_non_iterable_rest.js133139263652734427 0
-78C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\svgo\bin133139263585410348 1
+78C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\svgo\bin133146155903078628 1
 91C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\htmlparser2\README.md133139263615919261 0
 104C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\@parcel\packager-html\package.json133139263619231974 0
 96C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\@nodelib\fs.stat\README.md133139263641391004 0
@@ -1344,7 +1344,7 @@
 120C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\@swc\helpers\lib\_unsupported_iterable_to_array.js133139263658988339 0
 105C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\svgo\plugins\removeEditorsNSData.js133139263647493905 0
 106C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\svgo\plugins\removeElementsByAttr.js133139263648111732 0
-95C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\dist\01-color-switcher.52e3b619.js.map133146165542742349 0
+95C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\dist\01-color-switcher.52e3b619.js.map133146181267594644 0
 98C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\htmlparser2\lib\Tokenizer.js133139263603960113 0
 102C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\svgo\plugins\removeEmptyAttrs.js133139263648701723 0
 84C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\nan\LICENSE.md133139263634670156 0
@@ -1594,7 +1594,7 @@
 115C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\dom-serializer\node_modules\entities\lib\maps133146155768813393 1
 104C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\css-tree\lib\syntax\node\Number.js133139263662630281 0
 106C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\@parcel\package-manager\src\index.js133139263623136536 0
-80C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\semver\bin133139263586654727 1
+80C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\semver\bin133146155889126830 1
 123C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\@parcel\runtime-js\src\helpers\browser\wasm-loader.js133139263645496534 0
 89C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\semver\CHANGELOG.md133139263603750180 0
 114C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\caniuse-lite\data\features\battery-status.js133139263651814423 0
@@ -2303,7 +2303,7 @@
 115C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\caniuse-lite\data\features\intrinsic-width.js133139263681633614 0
 102C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\@parcel\packager-js\package.json133139263633440159 0
 99C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\fast-glob\out\utils\stream.js133139263626179079 0
-91C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\dist\01-color-switcher.52e3b619.js133146165542402307 0
+91C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\dist\01-color-switcher.52e3b619.js133146181267454609 0
 88C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\fclone\fclone.d.ts133139263609538987 0
 104C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\caniuse-lite\data\features\json.js133139263682183858 0
 90C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\lmdb\src\lmdb-js.cpp133139263661520277 0
@@ -2886,7 +2886,7 @@
 98C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\@parcel\transformer-html\src133146155562480951 1
 108C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\dom-serializer\lib\esm\foreignNames.js133139263596159197 0
 92C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\detect-libc\.npmignore133139263595140679 0
-85C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\detect-libc\bin133139263604450131 1
+85C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\detect-libc\bin133146155764998073 1
 85C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\detect-libc\lib133146155765168459 1
 103C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\@parcel\transformer-image\LICENSE133139263605120183 0
 119C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\caniuse-lite\data\features\css-scroll-behavior.js133139263672080816 0
@@ -3315,7 +3315,7 @@
 108C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\@parcel\transformer-babel\src\utils.js133139263629172250 0
 101C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\caniuse-lite\data\regions\PR.js133139263687241422 0
 101C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\caniuse-lite\data\regions\PS.js133139263687551414 0
-84C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\dist\index.101ee4ef.css.map133146165542732394 0
+84C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\dist\index.101ee4ef.css.map133146167500276189 0
 101C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\caniuse-lite\data\regions\PW.js133139263687671395 0
 101C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\caniuse-lite\data\regions\QA.js133139263687751706 0
 101C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\caniuse-lite\data\regions\RO.js133139263688251718 0
@@ -4082,7 +4082,7 @@
 95C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\@parcel\fs\lib\browser.js133139263628483508 0
 126C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\@parcel\utils\test\input\sourcemap\referenced-min.js.map133139263664593080 0
 116C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\@parcel\package-manager\test\fixtures\packages133146155530008821 1
-82C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\dist\02-timer.f9388f03.js133146165542402307 0
+82C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\dist\02-timer.f9388f03.js133146167500276189 0
 123C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\@parcel\utils\test\input\sourcemap\source-root.js.map133139263664753056 0
 103C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\@parcel\utils\src\alternatives.js133139263604970137 0
 100C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\@parcel\utils\src\ansi-html.js133139263606311705 0
@@ -4309,7 +4309,7 @@
 100C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\@parcel\node-resolver-core\lib133146155512720819 1
 109C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\@parcel\node-resolver-core\package.json133139263662930290 0
 100C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\@parcel\node-resolver-core\src133146155513110837 1
-91C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\dist\goit-js-hw-09.59712999.js.map133146165542732394 0
+91C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\dist\goit-js-hw-09.59712999.js.map133146167500426197 0
 109C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\@parcel\node-resolver-core\test\fixture133146155519837044 1
 116C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\@parcel\node-resolver-core\test\fixture\bar.js133139263617995561 0
 122C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\@parcel\node-resolver-core\test\fixture\package.json133139263667182068 0
@@ -4781,13 +4781,13 @@
 81C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\.bin\semver133139263698477702 0
 85C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\.bin\terser.cmd133139263698477702 0
 85C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\node_modules\.bin\terser.ps1133139263698477702 0
-84C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\dist\01-color-switcher.html133146165542392326 0
-86C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\dist\02-timer.f9388f03.js.map133146165542742349 0
-75C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\dist\02-timer.html133146165542392326 0
-85C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\dist\03-promises.cd58c9ff.js133146165542402307 0
-89C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\dist\03-promises.cd58c9ff.js.map133146165542742349 0
-80C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\dist\index.101ee4ef.css133146165542392326 0
-72C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\dist\index.html133146165542392326 0
+84C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\dist\01-color-switcher.html133146181267524626 0
+86C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\dist\02-timer.f9388f03.js.map133146167500456175 0
+75C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\dist\02-timer.html133146167232749241 0
+85C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\dist\03-promises.cd58c9ff.js133146167500276189 0
+89C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\dist\03-promises.cd58c9ff.js.map133146167500476213 0
+80C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\dist\index.101ee4ef.css133146167500266191 0
+72C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\dist\index.html133146181508167532 0
 89C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\assets\actions-config-step-1.png133136781087721078 0
 89C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\assets\actions-config-step-2.png133136781087761097 0
 80C:\Users\goodv\Desktop\study\code\js-study\goit-js-hw-09\assets\how-it-works.png133136781087851117 0
