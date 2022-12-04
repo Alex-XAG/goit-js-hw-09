@@ -2,6 +2,8 @@ const body = document.body;
 const startBtn = document.querySelector('[data-start]');
 const stopBtn = document.querySelector('[data-stop]');
 let changeBgColor = null;
+startBtn.classList.add('start-btn');
+stopBtn.classList.add('stop-btn');
 
 startBtn.addEventListener('click', startBtnHandler);
 stopBtn.addEventListener('click', stopBtnHandler);

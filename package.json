@@ -20,8 +20,10 @@
   "dependencies": {
     "@vimeo/player": "^2.18.0",
     "9s": "^0.20.22078",
+    "flatpickr": "^4.6.13",
     "lodash.throttle": "^4.1.1",
     "modern-normalize": "^1.1.0",
+    "notiflix": "^3.2.5",
     "simplelightbox": "^2.11.0"
   },
   "devDependencies": {
