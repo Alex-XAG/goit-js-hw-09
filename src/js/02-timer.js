@@ -1,7 +1,7 @@
 import flatpickr from 'flatpickr';
 import 'flatpickr/dist/flatpickr.min.css';
 import { Notify } from 'notiflix/build/notiflix-notify-aio';
-
+import { Notify } from 'notiflix/build/notiflix-notify-aio';
 const dateInput = document.querySelector('#datetime-picker');
 const startBtn = document.querySelector('[data-start]');
 const timerBlock = document.querySelector('.timer');
